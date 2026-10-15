@@ -25,37 +25,12 @@
 
 <h3>🛠️ Languages and Tools</h3>
 
-<h4>Languages</h4>
-
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,python,dart,ts" alt="JavaScript, Java, Python, Dart, TypeScript" />
+  <img
+    src="https://skillicons.dev/icons?i=js,java,python,dart,ts,react,nextjs,tailwind,express,flutter,spring,nodejs,postgres,mongodb,mysql,aws&perline=8"
+    alt="JavaScript, Java, Python, Dart, TypeScript, React, Next.js, Tailwind CSS, Express.js, Flutter, Spring Boot, Node.js, PostgreSQL, MongoDB, MySQL, AWS"
+  />
 </p>
-
-<h4>Frameworks and Libraries</h4>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express,flutter,spring" alt="React, Next.js, Tailwind CSS, Express.js, Flutter, Spring Boot" />
-</p>
-
-<h4>Runtime</h4>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-</p>
-
-<h4>Databases</h4>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="PostgreSQL, MongoDB, MySQL" />
-</p>
-
-<h4>Cloud</h4>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" />
-</p>
-
-<p>AWS: EC2 · S3 · SES · IAM · CloudFront</p>
 
 <h3>📊 GitHub Stats</h3>
 
