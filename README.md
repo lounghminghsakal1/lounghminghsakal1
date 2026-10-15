@@ -23,13 +23,40 @@
   <li>🌱 Always learning and improving my engineering skills.</li>
 </ul>
 
+<h3>🤝 Connect with Me</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/lounghminghsakalj/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="mailto:lounghminghsakal11@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" />
+  </a>
+</p>
+
+<p>
+  📧 <a href="mailto:lounghminghsakal11@gmail.com">lounghminghsakal11@gmail.com</a>
+</p>
+
 <h3>🛠️ Languages and Tools</h3>
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=js,java,python,dart,ts,react,nextjs,tailwind,express,flutter,spring,nodejs,postgres,mongodb,mysql,aws&perline=8"
-    alt="JavaScript, Java, Python, Dart, TypeScript, React, Next.js, Tailwind CSS, Express.js, Flutter, Spring Boot, Node.js, PostgreSQL, MongoDB, MySQL, AWS"
-  />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" />
 </p>
 
 <h3>📊 GitHub Stats</h3>
