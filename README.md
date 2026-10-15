@@ -1,9 +1,15 @@
-## 📊 GitHub Stats
+<!-- Profile views -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=lounghminghsakal1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lounghminghsakal1&color=blueviolet&style=flat-square)
+<!-- Languages and stats -->
+<p>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lounghminghsakal1&layout=compact&langs_count=6&theme=default" alt="Most used languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=lounghminghsakal1&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lounghminghsakal1&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lounghminghsakal1&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=lounghminghsakal1&theme=tokyonight&hide_border=true)
+<!-- Contribution streak -->
+<p>
+  <img src="https://streak-stats.demolab.com/?user=lounghminghsakal1&theme=default" alt="GitHub contribution streak" />
+</p>
