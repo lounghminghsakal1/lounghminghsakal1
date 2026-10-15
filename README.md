@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=lounghminghsakal1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Your GitHub stats](https://vercel.app)](https://github.com/lounghminghsakal1/github-readme-stats)
